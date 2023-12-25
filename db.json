@@ -1,0 +1,71 @@
+{
+  "test": [
+    {
+      "id": 1,
+      "title": "제목1",
+      "content": "내용2"
+    }
+  ],
+  "members": [
+    { "id": 2,  "playerId": 2, "backNo": 9, "name": "김광혁", "uid": "1e1yN789nJSbFkk0nWcWf6LwBlg2", "code": "BC0566C564258C5B627B96FC09E59008", "admin": false, "order": 2, "position": "포수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621db3437ac1e2nk812c.jpg"  },
+    { "id": 3,  "playerId": 3, "backNo": 20, "name": "김기웅", "uid": "HJu9bel9gqYpjiIejkqtQtdyi2l1", "code": "DE1B268394865433F59381386AE91D32", "admin": false, "order": 1, "position": "포수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621dbaac7451e2nk88ai.jpg"  },
+    { "id": 4,  "playerId": 4, "backNo": 19, "name": "김도경", "uid": "aFIx3wSvnfPVaCA1s8QoxAYnQOw1", "code": "99MO0DCL6O0000000XYOEC", "admin": false, "order": 2, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621dc0dded61e2nk8ecd.jpg"  },
+    { "id": 5,  "playerId": 5, "backNo": 7, "name": "김병곤", "uid": "5dNWCJgggdT6iAdL0QNnHn9dYaq2", "code": "40685D8146B3AF84D56FA9E0BF5D745F", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621dc80c9d61e2nk8lbj.jpg"  },
+    { "id": 4,  "playerId": 4, "backNo": 23, "name": "김병채", "uid": "0pex5txaugbWL8oaeLgLrjJdqok1", "code": "FE45BE0886BDCD911DB0D5A83A25FB2A", "admin": false, "order": 1, "position": "포수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e61b6f39dabe1e2mr59tt.jpg"  },
+    { "id": 7,  "playerId": 7, "backNo": 31, "name": "김영우", "uid": "3dFowYBEf5RAblC96MM1y7VbGJI3", "code": "7UMFDEX5JY6190NPHQT24VLWGAZORCBI", "admin": false, "order": 2, "position": "투수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621dcf91d831e2nk8snd.jpg"  },
+    { "id": 67, "playerId": 67, "backNo": 47, "name": "김준경", "uid": "kr2rMiE3rbQUG3Lc9SLIEsDb8y23", "code": "4F3811AD89CA71BB78AFB7E4731D2B67", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/201702/thumb_58b3936fe4e331b9unfra1.jpg"  },
+    { "id": 8,  "playerId": 8, "backNo": 2, "name": "김준수", "uid": "PSmpbdotNweQT2QX9suzluwYR5o2", "code": "257EBD7E819D2276618495EF0FAD449C", "admin": false, "order": 1, "position": "포수", "imgUrl": "http://file.clubone.kr/player/201910/thumb_5db34b717ed621do25tcrf.jpg"  },
+    { "id": 9,  "playerId": 9, "backNo": 52, "name": "김헌성", "uid": "hdmzasGGT1aGhXszkuhajhPSnDm2", "code": "604306C145DE22BAC48C521EE8151E3F", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e81a6ef8d3811e4l785uq.jpg"  },
+    { "id": 68, "playerId": 68, "backNo": 21, "name": "김홍겸", "uid": "CsJDKLM8snZZu2hPAVCeG77B8Pp2", "code": "A99E78BBB12BDC588FB9F1854BC022A1", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/thumb_ghdxoddl92_20130925170059.jpg"  },
+    { "id": 10, "playerId": 10, "backNo": 33, "name": "박광용", "uid": "2LvgPIlXdLQZLXrhVmVDQ26oMR52", "code": "1UHP169J7J38000000W6HJI", "admin": false, "order": 2, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621dde7e8151e2nk9b9m.jpg"  },
+    { "id": 70, "playerId": 70, "backNo": 12, "name": "박동혁", "uid": "W0Ys8TeA6wh8D6boLuQFq5syPFZ2", "code": "5EAB2946F8F9E038EEDB8EE990A63DF9", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/thumb_parkdh771_130913160826.jpg"  },
+    { "id": 11, "playerId": 11, "backNo": 99, "name": "박승완", "uid": "aqCmIzF3JwaxHguhtBmJ6Bglobv2", "code": "6DAADADC6F07B2B2D44FDDF6B24B0170", "admin": false, "order": 1, "position": "투수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e81a6fa22d7e1e4l78g8u.jpg"  },
+    { "id": 12, "playerId": 12, "backNo": 51, "name": "박주언", "uid": "v4ixDLmYrDNvgk85zPUOIAFEIS63", "code": "7A574E0E4B3AEF4BC24E70E6150389F7", "admin": false, "order": 2, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e6b499eeff811e39hf586.jpg"  },
+    { "id": 13, "playerId": 13, "backNo": 56, "name": "박준형", "uid": "L2ErzWkRhJQaux6EMtGkWHGdAaf1", "code": "6CE8AE817E27A1A0D5681A65ADC9B752", "admin": false, "order": 2, "position": "외야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e61b6a9319c31e2mr317j.jpg"  },
+    { "id": 14, "playerId": 14, "backNo": 5, "name": "서명재", "uid": "8ppNcPCAKDTFz2Ecwly0f3nfXP52", "code": "3377BD2A908C31D7D6F0943E59B880BE", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621df5e92051e2nka262.jpg"  },
+    { "id": 15, "playerId": 15, "backNo": 98, "name": "송경한", "uid": "ljxND7IjekeRyY4Y36cpbNtTAmL2", "code": "27STBDCGFBJ0000000L5F3G", "admin": false, "order": 2, "position": "투수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621dfc534e21e2nka8dl.jpg"  },
+    { "id": 16, "playerId": 16, "backNo": 50, "name": "송병주", "uid": "4pAGafxK2MYiF0vkFllIkr4HRN12", "code": "91C2DF4180D401AF33F3F9EAC010BF45", "admin": false, "order": 1, "position": "외야수", "imgUrl": "http://file.clubone.kr/player/202004/thumb_5ea4f3b6720961e6q5g063.jpeg"  },
+    { "id": 72, "playerId": 72, "backNo": 77, "name": "송하근", "uid": "veJnOZD7AMOBBEC5pvnd7ADZAwh2", "code": "48ECC94F32C68E0A175FAE7458D2E16A", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/thumb_agunida_130911090319.jpg"  },
+    { "id": 79, "playerId": 79, "backNo": 18, "name": "신명재", "uid": "VEBQRhDSuHXsTWBwZbmhx3xgBvz1", "code": "7455CF382616F2A57DD72E0E236FFA74", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/thumb_64a0295262aa21h48q2qf4.jpg"  },
+    { "id": 17, "playerId": 17, "backNo": 27, "name": "신우순", "uid": "sa2jwUvHj3XAceJDi2tZ2Dqvg792", "code": "199F18B15C34F0EC0A1AE4DDCD554A0F", "admin": false, "order": 1, "position": "투수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e61b677582051e2mr1gi0.jpg"  },
+    { "id": 18, "playerId": 18, "backNo": 13, "name": "안광훈", "uid": "vXc1iaWs6nXtv38ymyubEf4Ykqn2", "code": "5566533A1499056AACB272445E6D6A54", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621e07497bb1e2nkaj44.jpg"  },
+    { "id": 19, "playerId": 19, "backNo": 0, "name": "안다훈", "uid": "1hRKJ9Inqmcs95rI5WYfaoGfD8g2", "code": "780A5061B38663BE4A5C0EEBD719632D", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621e171ec771e2nkb2im.jpg"  },
+    { "id": 20, "playerId": 20, "backNo": 25, "name": "연도현", "uid": "caLjIuna3xd8vWPQD0vO0azEN0x2", "code": "2IGQ3DEQITO0000000H8T9K", "admin": false, "order": 2, "position": "외야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621e1d45cec1e2nkb8j5.jpg"  },
+    { "id": 21, "playerId": 21, "backNo": 16, "name": "오승재", "uid": "CR5sW3S216TkCSGvNwQTurh9tGa2", "code": "26PR172M3KT0000000QTLRP", "admin": false, "order": 2, "position": "외야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e81a81b478841e4l7haks.jpg"  },
+    { "id": 22, "playerId": 22, "backNo": 89, "name": "오승철", "uid": "66E9nxR5xnNeX77hZS9y976ehNv1", "code": "2GUSFXR0BD63JWA5Q9KM1NC4Z7EVOTIP", "admin": false, "order": 2, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621e2bd6ffc1e2nkbmr8.jpg"  },
+    { "id": 23, "playerId": 23, "backNo": 59, "name": "유영태", "uid": "JvdP8sL1YuPdNaS0tcxaBRhl4Ek2", "code": "07369F3713F7AE24AC4E52E3030E6FDE", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e621e31b8ebe1e2nkbsit.jpg"  },
+    { "id": 24, "playerId": 24, "backNo": 10, "name": "이재형", "uid": "nFnic4UozhX7xfnoWbP96tCOHnZ2", "code": "E638BF83C105DA912BB20A57728E95F5", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202005/thumb_5ecf47dc6fddf1e9cr1d9a.jpg"  },
+    { "id": 25, "playerId": 25, "backNo": 24, "name": "이종화", "uid": "OBs5lEreoWPgekny6zDLdqnO6bK2", "code": "1TLMANFR03O0000000A4HWJ", "admin": false, "order": 2, "position": "외야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e61bcaf3f8bf1e2msi34s.jpg"  },
+    { "id": 73, "playerId": 73, "backNo": 6, "name": "이진행", "uid": "LHALOpRP5JTIntYqMEqeTzuHcDv1", "code": "140CF789FFA1E70C769FD9EC483432B6", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/thumb_jinhaenglee_20130925170059.jpg"  },
+    { "id": 74, "playerId": 74, "backNo": 22, "name": "이행엽", "uid": "mH5uqvt0JSgn408STm9x5d0TpRs1", "code": "3C8C18AA049A87F2B4041E33F2090186", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/5c63b882e02311d3iohfr6_thumb.png"  },
+    { "id": 75, "playerId": 75, "backNo": 53, "name": "이희범", "uid": "PZaQ5wrTzTbBH10HJMq5cyFwiNB3", "code": "F1E17EFCF4ED18CB895E9433BCB9747C", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/thumb_qqupeqo_20130925170059.jpg"  },
+    { "id": 26, "playerId": 26, "backNo": 36, "name": "임우재", "uid": "dJRgqtR0zFaN3e7dCz7I0t0Kam73", "code": "89BF5B47AAF30CF9772A333882C2426D", "admin": false, "order": 1, "position": "외야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e81a729d5ea31e4l79usk.jpg"  },
+    { "id": 27, "playerId": 27, "backNo": 8, "name": "임환용", "uid": "BBxNxy91QOPiPYs1d4jzSUtjnPn2", "code": "B2312172AB65B19D3DC62DE01E620234", "admin": false, "order": 2, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/201910/thumb_5db35240306e41do27iim6.jpg"  },
+    { "id": 81, "playerId": 81, "backNo": 42, "name": "정경찬", "uid": "QtBm3ntJOWQdieZwCkioM96lsVh1", "code": "48CC0DFEA2C24910D208B8E4884557E0", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/201704/thumb_58eee9848e3ea1bdik0bf6.jpg"  },
+    { "id": 28, "playerId": 28, "backNo": 35, "name": "정치선", "uid": "Aphc1nHtAGUQB4oGFg2NwkRCCcI3", "code": "1VNL4H3U246G0000009RS6H", "admin": false, "order": 2, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e61b6dbb3cdd1e2mr4iio.jpg"  },
+    { "id": 29, "playerId": 29, "backNo": 1, "name": "정효원", "uid": "Grv8hynGiMNYBIk8yPXtGxUk4wg1", "code": "0032902EF49768F9D740515B400D0699", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/201910/thumb_5db352526fc3d1do27j4gp.jpg"  },
+    { "id": 64, "playerId": 64, "backNo": 88, "name": "채인환", "uid": "taMbtV1aWAU9NC5Xt51IWeGBr7B3", "code": "1771CGFHDP5O000000Q8O1N", "admin": false, "order": 2,"position": "미지정", "imgUrl": "http://file.clubone.kr/player/6427421b4487d1gsslkekg_thumb.jpg"  },
+    { "id": 30, "playerId": 30, "backNo": 813, "name": "최수일", "uid": "Pw6SrK0jHIQ4lC6u6ARGTB1I0Wf2", "code": "26BF84669649CF7E6858CED02925800D", "admin": false, "order": 1, "position": "포수", "imgUrl": "http://file.clubone.kr/player/202003/thumb_5e61b6e7049861e2mr4tja.jpg"  },
+    { "id": 31, "playerId": 31, "backNo": 11, "name": "최승연", "uid": "mmoGZElzENhIHgtd3CBbrBy88lI2", "code": "E4A58D0190F7BD5928F3221B52D41F2E", "admin": false, "order": 1,"position": "미지정", "imgUrl": "http://file.clubone.kr/player/201910/thumb_5db3530b2ce6f1do27ootf.jpg"  },
+    { "id": 32, "playerId": 32, "backNo": 14, "name": "표명석", "uid": "yaWMTfmYcsQHkWWeXa04zjqPw443", "code": "8F07FF45E379C1F15AE005473C7FDE02", "admin": false, "order": 1, "position": "내야수", "imgUrl": "http://file.clubone.kr/player/201910/thumb_5db354098e9e61do280hbg.jpg"  },
+    { "id": 76, "playerId": 76, "backNo": 28, "name": "황지후", "uid": "mJPWa07vpQdW1NjZAr1v2zN8Sfz2", "code": "69F247D61D91EED1AD1A216886C239C1", "admin": false, "order": 1, "position": "미지정", "imgUrl": "http://file.clubone.kr/player/thumb_liongod_20130925170059.jpg"  }
+  ],
+  "all": [
+    {
+      "id": 1,
+      "recodes": []
+    },
+    {
+      "recodes": [],
+      "id": 2
+    },
+    {
+      "recodes": [],
+      "id": 3
+    },
+    {
+      "recodes": [],
+      "id": 4
+    }
+  ]
+}

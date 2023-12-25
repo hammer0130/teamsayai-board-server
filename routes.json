@@ -1,0 +1,7 @@
+{
+  "/apis/members": "/members",
+  "/apis/members/:playerId": "/members/:playerId",
+  "/apis/v1/player/hiiter/all": "/all",
+  "/apis/v1/player/hiiter/all/:id": "/all/:id"
+  
+}
