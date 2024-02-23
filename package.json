@@ -1,6 +1,7 @@
 {
   "name": "teamsayai-sever",
   "version": "0.1.0",
+  "engines": { "node": "16.x" },
   "private": true,
   "scripts": {
     "start": "json-server --watch db.json --port 3001 --routes routes.json"
